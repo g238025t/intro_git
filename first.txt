@@ -1,5 +1,4 @@
 Gitの練習をしていきます。
 
-afafafaafa
-
-C
+Git add
+Git commit
